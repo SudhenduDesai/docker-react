@@ -18,7 +18,5 @@ Script:
     bucket_path: "docker-react"
     on:
       branch: master
-
-    
-    
-#http://dockerreact-env.eba-asnaybkn.us-east-1.elasticbeanstalk.com/
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
