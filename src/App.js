@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React. Sudhendu
+          Learn React. Sudhendu changed me. getting errors
         </a>
       </header>
     </div>
